@@ -10,6 +10,6 @@
 	    for ( i = 1; i <= n; ++i) {
         resultado = resultado * i;
     }
-    	printf("O fatorial desse numero é %d", resultado);
+    	printf("O fatorial desse numero Ã© %d", resultado);
 
     }
